@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "id": "211dswds",
+      "name": "Java Fronokono",
+      "company": "Jogoo Houseder",
+      "title": "Engineer",
+      "mobile": "12121121",
+      "email": "jano@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpbF9MRc872DyqrFDJJ3MRq68r08IaEKCNGzAqYNpeSK38HOao_E2_50CtB2V4TGM_5ag&usqp=CAU",
+      "groupId": "1"
+    },
+    {
+      "id": "89045",
+      "name": "Rambo Kolo",
+      "company": "Jogoo House",
+      "title": "Engineer",
+      "mobile": "12121121",
+      "email": "jean@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNIfkEpJnMYAs4kyug3E029i0I6EeI99exsO92n5HzQ&s",
+      "groupId": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Work"
+    },
+    {
+      "id": "3",
+      "name": "School"
+    },
+    {
+      "id": "4",
+      "name": "Church"
+    },
+    {
+      "id": "5",
+      "name": "Social"
+    },
+    {
+      "id": "6",
+      "name": "Friend"
+    }
+  ]
+}
